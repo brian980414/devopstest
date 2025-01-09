@@ -22,3 +22,4 @@ FORK
 git switch -c features -> igual que git checkout -b name
 git branch -r -> muestra las ramas remotas  
 git branch -v -> origin esta mapado con el de la cuenta 
+the last one from github
