@@ -11,4 +11,14 @@ ver la url remota
 git remote -v
 
 el git grahp sirve para saber ver de forma mas grafica el historial de commits
-ß
+
+
+
+
+
+FORK
+
+
+git switch -c features -> igual que git checkout -b name
+git branch -r -> muestra las ramas remotas  
+git branch -v -> origin esta mapado con el de la cuenta 
