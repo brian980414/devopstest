@@ -1,0 +1,14 @@
+Comandos basicos de Git
+
+setear para todos los proyectos
+git config --global user.name "email"
+git config --global user.pasword "pass"
+
+diferencia entre los repositorios 
+git diff -> muestra los cambios entre repositorios
+
+ver la url remota 
+git remote -v
+
+el git grahp sirve para saber ver de forma mas grafica el historial de commits
+ß
