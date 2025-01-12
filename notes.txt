@@ -25,3 +25,38 @@ git branch -v -> origin esta mapado con el de la cuenta
 the last one from github
 
 the last change
+
+
+Agregar formato a un archivo READMI.ma 
+# Título principal (H1)
+## Subtítulo (H2)
+### Subsubtítulo (H3)
+#### Nivel 4 (H4)
+##### Nivel 5 (H5)
+###### Nivel 6 (H6)
+**Texto en negrita**
+*Texto en cursiva*
+~~Texto tachado~~
+***Texto en negrita y cursiva***
+- Item 1
+- Item 2
+  - Subitem 2.1
+1. Paso 1
+2. Paso 2
+   1. Subpaso 2.1
+[Texto del enlace](https://ejemplo.com)
+<https://ejemplo.com>
+![Texto alternativo](https://ruta_de_imagen.com/imagen.png)
+[![Texto alternativo](https://ruta_de_imagen.com/imagen.png)](https://enlace.com)
+`Código en línea`
+```javascript
+console.log("Hola, mundo!");
+> Este es un bloque de cita.
+
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Otro dato | Más datos | Último dato |
+
+---
+second one 
